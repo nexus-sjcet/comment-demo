@@ -2,7 +2,7 @@
     "/demo.ts": {
         "12345678": {
             "header": "11111",
-            "body": "22222"
+            "body": "./image.png"
         }
     },
     "/apps/page.tsx": {
