@@ -1,14 +1,14 @@
 {
     "/demo.ts": {
-        "12345678": {
-            "header": "11111",
+        "id1": {
+            "header": "header1",
             "body": "./image.png"
         }
     },
     "/apps/page.tsx": {
-        "1234567822": {
-            "header": "33333",
-            "body": "44444"
+        "id2": {
+            "header": "header2",
+            "body": "./gif.gif"
         }
     }
 }
