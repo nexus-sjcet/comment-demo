@@ -1,5 +1,5 @@
 {
-    "host": "localhost",
     "root": "./docs",
-    "assets": "./docs/static"
+    "assets": "./docs/static",
+    "host": "localhost"
 }
