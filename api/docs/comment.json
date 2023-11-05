@@ -2,8 +2,8 @@
     "/demo.ts": {
         "clojvbfh80000voyqd9s2dco9": {
             "header": "header clojvbfh80000voyqd9s2dco9",
-            "body": "/docs/comment.json",
-            "type": "json"
+            "body": "/docs/static/audio.mp3",
+            "type": "audio"
         },
         "clojvbtj30001voyq9u083y7t": {
             "header": "header clojvbtj30001voyq9u083y7t",
